@@ -1,0 +1,19 @@
+.Support {
+    background-color: #baecb6;
+    padding: 2rem;
+    border-radius: 100px;
+    font-family: 'Delius';
+    text-align: top;
+    color: #000000;
+}
+
+.Support h2{
+    font-size: 2rem;
+    color: #6b4226
+}
+
+.Support p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-top: 1rem;
+}

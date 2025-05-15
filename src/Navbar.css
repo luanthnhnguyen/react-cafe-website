@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #333;
+    padding: 1rem
+    color white;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    justify-items: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.navbar a:hover {
+    color: #f2a900;
+}
+
+.hero {
+    background: #d4a373;
+    text-align: center;
+    padding: 3rem;
+    margin-top: 20px;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}

@@ -1,0 +1,56 @@
+.menu {
+    padding: 2rem;
+    font-family: delius;
+    background-color: #ecbc8f;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.menu-item button{
+    background-color: #d4a373;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.menu-item button:hover{
+    background-color: #a26d44;
+}
+
+.menu-item{
+    text-align: center;
+    flex: 1;
+    max-width: 300px;
+}
+
+.menu-item img{
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    margin-bottom: 0.5rem;
+}
+
+
+
+.menu h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.menu.item h3{
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.menu-item p {
+    font-size: 1.2rem;
+    color: #333;
+}
+
